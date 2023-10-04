@@ -1,0 +1,7 @@
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\obj\Debug\Mymtec.Core.csproj.AssemblyReference.cache
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\obj\Debug\Mymtec.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\bin\Debug\Mymtec.Core.exe.config
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\bin\Debug\Mymtec.Core.exe
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\bin\Debug\Mymtec.Core.pdb
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\obj\Debug\Mymtec.Core.exe
+C:\Users\Sebastian Ortiz\source\repos\Mymtec\Mymtec.Core\obj\Debug\Mymtec.Core.pdb
